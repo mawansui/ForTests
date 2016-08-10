@@ -1,4 +1,3 @@
-[
 {
 title: 'Заголовок 1',
 subtitle: 'Подзаголовок 1',
@@ -20,4 +19,3 @@ date: '03/02/03',
 image: 'http://sugartin.info/wp-content/uploads/2013/11/logo.png',
 type: 1
 }
-];
