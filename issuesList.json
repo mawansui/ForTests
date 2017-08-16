@@ -1,0 +1,73 @@
+[
+  {
+    "title": "2017",
+    "data": [
+      {
+        "key": 1,
+        "month": "Июнь",
+        "cover_image": "https://github.com/mawansui/ForTests/raw/master/magazine/images/07_2017.jpg",
+        "issue": 200,
+        "on_cover": "На обложке – рисунок Дианы Курсовой",
+        "link": "https://vk.com/doc44442151_446194325"
+      },
+      {
+        "key": 2,
+        "month": "Май",
+        "cover_image": "https://raw.githubusercontent.com/mawansui/ForTests/master/magazine/images/05%202017.jpg",
+        "issue": 200,
+        "on_cover": "На обложке – пропуск на Парад Победы 1945 года Б.А. Арбузова",
+        "link": "https://vk.com/doc-19109702_445195223"
+      },
+      {
+        "key": 3,
+        "month": "Апрель",
+        "cover_image": "https://raw.githubusercontent.com/mawansui/ForTests/master/magazine/images/04%202017.jpg",
+        "issue": 200,
+        "on_cover": "На обложке – рисунок Диляры Тазетдиновой",
+        "link": "https://vk.com/doc-19109702_444960333"
+      },
+      {
+        "key": 4,
+        "month": "Март",
+        "cover_image": "https://raw.githubusercontent.com/mawansui/ForTests/master/magazine/images/03%202017.jpg",
+        "issue": 200,
+        "on_cover": "На обложке – фото Студенческого клуба КФУ",
+        "link": "https://vk.com/doc-19109702_444960326"
+      }
+    ]
+  },
+  {
+    "title": "2016",
+    "data": [
+      {
+        "key": 5,
+        "month": "Март",
+        "cover_image": "https://raw.githubusercontent.com/mawansui/ForTests/master/magazine/images/03%202016.jpg",
+        "issue": 200,
+        "on_cover": "На обложке – рисунок Диляры Тазетдиновой",
+        "link": "https://vk.com/doc-19109702_437373255"
+      },
+      {
+        "key": 6,
+        "month": "Февраль",
+        "cover_image": "https://raw.githubusercontent.com/mawansui/ForTests/master/magazine/images/02%202016.jpg",
+        "issue": 200,
+        "on_cover": "На обложке – плакат Тазетдиновой Диляры, гр. 07-105",
+        "link": "https://vk.com/doc-19109702_437275113"
+      }
+    ]
+  },
+  {
+    "title": "2015",
+    "data": [
+      {
+        "key": 7,
+        "month": "Декабрь",
+        "cover_image": "https://raw.githubusercontent.com/mawansui/ForTests/master/magazine/images/12%202015.jpg",
+        "issue": 200,
+        "on_cover": "",
+        "link": "https://vk.com/doc-19109702_437145254"
+      }
+    ]
+  }
+]
