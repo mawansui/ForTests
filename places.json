@@ -1,0 +1,34 @@
+[
+  {
+    "coordinate": {
+      "latitude": 55.790858,
+      "longitude": 49.121958
+    },
+    "tagColor": "yellow",
+    "placeTitle": "Главный корпус КФУ",
+    "shortDesc": "Администрация университета",
+    "placeDesc": "Главный корпус – это место, где сосредоточены все административные органы управления нашего университета. Сюда стоит обращаться за разными справками или по вопросам, связанным со стипендиями – обычными и повышенными. Дальше ещё будет много-много текста, наверное, но для теста достаточно.",
+    "placePrices": "Все услуги, естественно, бесплатны.",
+    "placeAddress": "ул. Кремлёвская, д. 18",
+    "imagesArray": [
+      "http://5top100.com/upload/iblock/298/2986c5304c9cefe71218ff8f0f2d2b89_thumb_619d8095bd44a714.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Kazan_State_University_from_the_2_Korpus.jpg/1280px-Kazan_State_University_from_the_2_Korpus.jpg",
+      "http://travelingcuriously.net/wp-content/uploads/2014/06/DSC_0220.jpg"
+    ]
+  },
+  {
+    "coordinate": {
+      "latitude": 55.789895,
+      "longitude": 49.121965,
+    },
+    "tagColor": "brown",
+    "placeTitle": "Музей Казанской хим. школы",
+    "shortDesc": "Святая святых для казанских химиков",
+    "placeDesc": "Этому месту поклоняются не только казанские и отечественные, но и зарубежные коллеги-химики. Это – святая святых русской органической химии, колыбель многих великих научных открытий. Сей статус за собой она сохраняла и продолжает сохранять на протяжении последних 4 веков! Ещё больше текста потом будет.",
+    "placeAddress": "ул. Кремлёвская, д. 18к9",
+    "imagesArray": [
+      "http://old.kpfu.ru/chmku/images/1b.jpg",
+      "http://kpfu.ru/portal/docs/F706135615/1.jpg"
+    ]
+  }
+]
