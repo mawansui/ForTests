@@ -4,7 +4,7 @@
       "latitude": 55.790858,
       "longitude": 49.121958
     },
-    "tagColor": "yellow",
+    "tagColor": "#E6AC27",
     "tagTextColor": "darkblue",
     "category": "Университет",
     "placeTitle": "Главный корпус КФУ",
@@ -22,7 +22,7 @@
       "latitude": 55.789895,
       "longitude": 49.121965
     },
-    "tagColor": "brown",
+    "tagColor": "#BF4D28",
     "tagTextColor": "white",
     "category": "Музеи",
     "placeTitle": "Музей Казанской хим. школы",
